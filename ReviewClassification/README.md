@@ -6,7 +6,7 @@ This folder contains code (in file `DeBERTa_Inference.py`) to get output from ou
 
 ### Download Model Weights
 
-- Download model weights of fine-tuned DeBERTa-base model from [here](https://data.mendeley.com/preview/kyg8whhfkk?a=3402f678-323f-4251-96ff-803e5fdea222).
+- Download model weights of fine-tuned DeBERTa-base model from [here](https://data.mendeley.com/datasets/kyg8whhfkk/1).
 - Place the model weights in folder ./DeBERTa
 
 
