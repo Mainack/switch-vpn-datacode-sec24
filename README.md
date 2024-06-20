@@ -17,10 +17,9 @@ You can read the paper [here](https://arxiv.org/pdf/2403.01648).
 @article{VPNSwitchingSec24,
   title={"I just hated it and I want my money back": Data-driven Understanding of Mobile VPN Service Switching Preferences in The Wild},
   author={Rohit Raj and Mridul Newar and Mainack Mondal},
-  journal={ArXiv},
-  year={2024},
-  volume={abs/2403.01648},
-  url={https://api.semanticscholar.org/CorpusID:268249172}
+  booktitle = {Proceedings of the 33rd USENIX Security Symposium (USENIX Security'24)},
+  address = {Philadelphia, PA},
+  month = {Aug}
 }
 ~~~
 
